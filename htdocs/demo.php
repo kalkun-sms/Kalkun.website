@@ -11,6 +11,7 @@
 			<!--li><a href="https://kalkun.sourceforge.io/demo-devel">Snapshot of the development branch as of 2024-11-27</a>.</li-->
 			<li><a href="https://kalkun.sourceforge.io/demo-0.8.3-rc-1">version 0.8.3-rc-1</a>.</li>
 			<li><a href="https://kalkun.sourceforge.io/demo-v0.8.3-rc-2">version 0.8.3-rc-2</a>.</li>
+			<li><a href="https://kalkun.sourceforge.io/demo-v0.8.3">version 0.8.3</a>.</li>
 		</ul>
 
 		<p>Then login with username: <code>kalkun</code>, password <code>kalkun</code>.</p>
