@@ -12,6 +12,7 @@
 			<li><a href="https://kalkun.sourceforge.io/demo-0.8.3-rc-1">version 0.8.3-rc-1</a>.</li>
 			<li><a href="https://kalkun.sourceforge.io/demo-v0.8.3-rc-2">version 0.8.3-rc-2</a>.</li>
 			<li><a href="https://kalkun.sourceforge.io/demo-v0.8.3">version 0.8.3</a>.</li>
+			<li><a href="https://kalkun.sourceforge.io/demo-v0.8.4-beta-1">version 0.8.4-beta-1</a>.</li>
 		</ul>
 
 		<p>Then login with username: <code>kalkun</code>, password <code>kalkun</code>.</p>
